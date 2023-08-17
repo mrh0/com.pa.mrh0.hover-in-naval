@@ -1,0 +1,27 @@
+{
+	"identifier": "com.pa.mrh0.hover-in-naval",
+	"display_name": "Hover'n'Naval",
+	"description": "Allows you to build Hover Tanks in Naval factories",
+	"author": "MRH0",
+	"signature": "not yet implemented",
+	"forum": "",
+	"github": "https://github.com/mrh0/com.pa.mrh0.hover-in-naval",
+	"priority": 50,
+	"dependencies":[],
+	"icon": "icon.png",
+	"titansOnly": true,
+	"category": [
+		"addon",
+		"unit",
+		"titans",
+		"naval",
+		"hover"
+	],
+	"scenes": {},
+	"context": "server",
+	"date": "2023-08-17",
+	"build": "1",
+	"version": "1.0.0",
+    "titansOnly": true,
+	"framework": false
+}
