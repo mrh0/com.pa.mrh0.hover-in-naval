@@ -8,7 +8,7 @@
 	"github": "https://github.com/mrh0/com.pa.mrh0.hover-in-naval",
 	"priority": 50,
 	"dependencies":[],
-	"icon": "icon.png",
+	"icon": "https://raw.githubusercontent.com/mrh0/com.pa.mrh0.hover-in-naval/main/icon.png",
 	"titansOnly": true,
 	"category": [
 		"addon",
