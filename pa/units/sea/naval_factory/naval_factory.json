@@ -2,13 +2,13 @@
     "base_spec": "/pa/units/land/base_structure/base_structure.json",
     "unit_name": "Naval Factory",
     "display_name": "!LOC:Naval Factory",
-    "description": "!LOC:Basic Manufacturing - Builds basic naval units.",
+    "description": "!LOC:Basic Manufacturing - Builds basic naval and hover units.",
     "max_health": 6000,
     "build_metal_cost": 600,
     "atrophy_rate": 10.0,
     "atrophy_cool_down": 15.0,
     "spawn_layers": "WL_DeepWater",
-    "buildable_types": "((Naval | Hover) & Mobile & Basic) & FactoryBuild & Custom58",
+    "buildable_types": "( ( Naval | Hover ) & Mobile & Basic ) & FactoryBuild & Custom58",
     "rolloff_dirs": [
         [
             0,
