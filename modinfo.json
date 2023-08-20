@@ -4,7 +4,7 @@
 	"description": "Allows you to build Hover Tanks in Naval factories for both MLA and Legion.",
 	"author": "MRH0",
 	"signature": "not yet implemented",
-	"forum": "",
+	"forum": "https://forums.planetaryannihilation.com/threads/rel-hovernnaval.73599/#post-1152480",
 	"github": "https://github.com/mrh0/com.pa.mrh0.hover-in-naval",
 	"priority": 50,
 	"dependencies":[],
