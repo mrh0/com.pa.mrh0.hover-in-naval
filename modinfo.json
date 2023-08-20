@@ -7,7 +7,6 @@
 	"forum": "https://forums.planetaryannihilation.com/threads/rel-hovernnaval.73599/#post-1152480",
 	"github": "https://github.com/mrh0/com.pa.mrh0.hover-in-naval",
 	"priority": 50,
-	"dependencies":[],
 	"icon": "https://raw.githubusercontent.com/mrh0/com.pa.mrh0.hover-in-naval/main/icon.png",
 	"category": [
 		"addon",
@@ -16,11 +15,9 @@
 		"naval",
 		"hover"
 	],
-	"scenes": {},
 	"context": "server",
-	"date": "2023-08-17",
-	"build": "1",
+	"date": "2023-08-20",
+	"build": "116982",
 	"version": "1.0.0",
-    "titansOnly": true,
-	"framework": false
+    "titansOnly": true
 }
